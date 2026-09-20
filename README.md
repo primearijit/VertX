@@ -14,9 +14,9 @@
 
   <h3>📸 Screenshots</h3>
   <div>
-    <img src="docs/screenshots/Screenshot_20260802_202411_Convx-portrait.png" width="30%" alt="Convx Liquid Glass music player now playing screen with frosted glass controls">
-    <img src="docs/screenshots/Screenshot_20260802_205400_Convx-portrait.png" width="30%" alt="Convx Android music player home screen with glass chrome">
-    <img src="docs/screenshots/Screenshot_20260802_205417_Convx-portrait.png" width="30%" alt="Convx music player library view with Liquid Glass blur">
+    <img src="docs/screenshots/Screenshot_20260802_202411_VertX-portrait.png" width="30%" alt="Convx Liquid Glass music player now playing screen with frosted glass controls">
+    <img src="docs/screenshots/Screenshot_20260802_205400_VertX-portrait.png" width="30%" alt="Convx Android music player home screen with glass chrome">
+    <img src="docs/screenshots/Screenshot_20260802_205417_VertX-portrait.png" width="30%" alt="Convx music player library view with Liquid Glass blur">
     <br>
     <img src="docs/screenshots/Screenshot_20260802_205427_Convx-portrait.png" width="30%" alt="Convx music player search screen with frosted glass UI">
     <img src="docs/screenshots/mobile%20%283%29-portrait.png" width="30%" alt="Convx Liquid Glass music player UI showing the frosted player screen">
