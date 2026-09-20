@@ -1,0 +1,38 @@
+{
+  "description": "BeatWave 6.0.0 — major release introducing Dynamic Spotify recommendations on play, BeatWave Sync collaborative playlists & realtime chat, one-tap custom Theme Presets, and SoundCloud-style Music Presets.",
+  "image": "",
+  "changelog": [
+    {
+      "title": "BeatWave Sync & Collaborative Rooms",
+      "items": [
+        "BeatWave Sync: Shareable invite links (https://beatwave.de5.net/sync/{roomCode}) to listen together in real time.",
+        "Collaborative shared playlists: add and remove songs with friends and save room queues directly to your playlists with one tap.",
+        "In-room real-time chat with member badges, reply support, and timestamps."
+      ]
+    },
+    {
+      "title": "Smart Discovery & Spotify Recommendations",
+      "items": [
+        "Dynamic Spotify recommendations: instantly calculates and suggests fresh tracks seeded by your last played song under 'Because You Listened To'.",
+        "Recommendation Engine Selector: switch between Spotify algorithmic intelligence and YouTube Music in Content & Spotify settings.",
+        "Smooth fallback to related artist & album mixes."
+      ]
+    },
+    {
+      "title": "Custom Glass Theme Presets",
+      "items": [
+        "One-tap Theme Presets: Deep Midnight OLED, Cyberpunk Neon, Emerald Frosted Glass, Rose Gold, Sunset Amber, and Dynamic Material You.",
+        "Live gradient preview tiles and instant whole-app theme adaptation."
+      ]
+    },
+    {
+      "title": "Music Presets & Audio Polish",
+      "items": [
+        "One-tap playback presets: Normal, Sped Up (1.25x), Nightcore (+3 semitones), Slowed (0.85x), Daycore (-3 semitones), and Vaporwave (-4 semitones).",
+        "Accessible from both the Player Menu and 3-dot Song Options.",
+        "First-launch login onboarding for YouTube Music and Spotify accounts."
+      ]
+    }
+  ]
+}
+
