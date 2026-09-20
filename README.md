@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://github.com/primearijit/VertX/releases/tag/v6.0.0">
-      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20CONVX%201.5.2-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download VertX 6.0.0">
+      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20VertX%206.0.0-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download VertX 6.0.0">
     </a>
   </p>
   <p>
