@@ -41,7 +41,7 @@
 
   <p>
     <a href="https://github.com/primearijit/VertX/releases">
-      <img src="https://img.shields.io/github/downloads/primearijit/VertX/total?style=for-the-badge&color=blue" alt="Downloads">
+      <img src="https://img.shields.io/github/downloads/primearijit/Convx/total?style=for-the-badge&color=blue" alt="Downloads">
     </a>
     <a href="LICENSE">
       <img src="https://img.shields.io/github/license/primearijit/VertX?style=for-the-badge" alt="License">
