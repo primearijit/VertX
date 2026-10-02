@@ -1,11 +1,11 @@
 {
-  "description": "BeatWave 6.0.0 — major release introducing Dynamic Spotify recommendations on play, BeatWave Sync collaborative playlists & realtime chat, one-tap custom Theme Presets, and SoundCloud-style Music Presets.",
+  "description": "VertX 7.0.0 — major release introducing Dynamic Spotify recommendations on play, VertX Sync collaborative playlists & realtime chat, one-tap custom Theme Presets, and SoundCloud-style Music Presets.",
   "image": "",
   "changelog": [
     {
-      "title": "BeatWave Sync & Collaborative Rooms",
+      "title": "VertX Sync & Collaborative Rooms",
       "items": [
-        "BeatWave Sync: Shareable invite links (https://beatwave.de5.net/sync/{roomCode}) to listen together in real time.",
+        "VertX Sync: Shareable invite links (https://beatwave.de5.net/sync/{roomCode}) to listen together in real time.",
         "Collaborative shared playlists: add and remove songs with friends and save room queues directly to your playlists with one tap.",
         "In-room real-time chat with member badges, reply support, and timestamps."
       ]
