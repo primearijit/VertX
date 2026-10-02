@@ -4,11 +4,11 @@
 
   <p>
     <a href="https://github.com/primearijit/VertX/releases/tag/v7.0.0">
-      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20VertX%206.0.0-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download VertX 6.0.0">
+      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20VertX%206.0.0-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download VertX 7.0.0">
     </a>
   </p>
   <p>
-    <b><a href="https://github.com/primearijit/VertX/releases/tag/v7.0.0">⬇️ DOWNLOAD VERTX 6.0.0</a></b>
+    <b><a href="https://github.com/primearijit/VertX/releases/tag/v7.0.0">⬇️ DOWNLOAD VERTX 7.0.0</a></b>
     — Latest release. Works on Android 8.0+.
   </p>
 
