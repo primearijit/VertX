@@ -132,7 +132,7 @@
 
 <h2>🚗 Android Auto Setup</h2>
 
-<p>If Convx doesn't appear in Android Auto:</p>
+<p>If VertX doesn't appear in Android Auto:</p>
 
 <ol>
   <li>Open <strong>Android Auto</strong> on your phone</li>
@@ -162,7 +162,7 @@
 
 <h2>🛡️ Privacy & Data Collection</h2>
 
-<p>At <strong>Convx</strong>, your privacy is our top priority. We believe that your music and data belong exclusively to you.</p>
+<p>At <strong>VertX</strong>, your privacy is our top priority. We believe that your music and data belong exclusively to you.</p>
 
 <ul>
   <li><strong>Zero Data Collection:</strong> we do <strong>not</strong> collect, store, or share any of your personal information, usage habits, or listening history.</li>
@@ -178,7 +178,7 @@
 
 <p>Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by their respective owners.</p>
 
-<p><strong>Convx</strong> is an independent project created for educational and personal use purposes.</p>
+<p><strong>VertX</strong> is an independent project created for educational and personal use purposes.</p>
 
 <hr>
 
@@ -221,8 +221,8 @@
       <td width="40%" align="left">
         <b>💡 Built On</b>
         <ul>
-          <li><strong><a href="https://github.com/vivizzz007/vivi-music">vivi-music</a></strong> by <strong>Vividh P Ashokan</strong> — the project Convx was forked from.</li>
-          <li>The <strong>Apple Music Player V17</strong> full-screen player style (Settings → Player Theme) is ported from <a href="https://github.com/vivizzz007/vivi-music">vivi-music</a>'s Apple Music player UI, GPL-3.0.</li>
+          <li><strong><a href="https://github.com/vivizzz007/vivi-music">vivi-music</a></strong> by <strong>Vividh P Ashokan</strong> — the project VertX was forked from.</li>
+          <li>The <strong>Apple Music Player V17</strong> full-screen player style (Settings → Player Theme) is ported from <a href="https://github.com/beatlabs790/BeatWave">BeatWave</a>'s Apple Music player UI, GPL-3.0.</li>
         </ul>
       </td>
       <td width="60%" align="left">
@@ -241,5 +241,5 @@
   <p align="center">The open-source community for tools, libraries, and APIs that make this project possible.</p>
   <hr width="60%">
   <p align="center"><strong>Made with ❤️ for music lovers everywhere</strong></p>
-  <p align="center">⭐ Star this repo if you enjoy Convx!</p>
+  <p align="center">⭐ Star this repo if you enjoy VertX!</p>
 </div>
