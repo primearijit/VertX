@@ -222,7 +222,7 @@
         <b>💡 Built On</b>
         <ul>
           <li><strong><a href="https://github.com/vivizzz007/vivi-music">vivi-music</a></strong> by <strong>Vividh P Ashokan</strong> — the project VertX was forked from.</li>
-          <li>The <strong>Apple Music Player V17</strong> full-screen player style (Settings → Player Theme) is ported from <a href="https://github.com/beatlabs790/BeatWave">BeatWave</a>'s Apple Music player UI, GPL-3.0.</li>
+          <li>The <strong>Apple Music Player V17</strong> full-screen player style (Settings → Player Theme) is ported from <a href="https://github.com/vivizzz007/vivi-music">vivi-music</a>'s Apple Music player UI, GPL-3.0.</li>
         </ul>
       </td>
       <td width="60%" align="left">
