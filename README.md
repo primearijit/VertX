@@ -46,8 +46,8 @@
     <a href="LICENSE">
       <img src="https://img.shields.io/github/license/primearijit/VertX?style=for-the-badge" alt="License">
     </a>
-    <a href="https://whatsapp.com/channel/0029VbCrvy7Ae5VhxAZ2e909">
-      <img src="https://img.shields.io/badge/Whatsapp-Join%20Us-00FF00?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Discord">
+    <a href="https://t.me/vertxmusic">
+      <img src="https://img.shields.io/badge/Telegram-Join%20Us-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Discord">
     </a>
     <a href="upi://pay?pa=primearijit%40axl&pn=VertX&cu=INR">
       <img src="https://img.shields.io/badge/Upi-Support%20Us-5F259F?style=for-the-badge&logo=phonepe&logoColor=white" alt="Support by upi">
