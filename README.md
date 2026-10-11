@@ -99,8 +99,8 @@
       <h3>📝 Lyrics & Social</h3>
       <ul>
         <li><b>Synced, karaoke-style lyrics</b> with word-by-word highlighting.</li>
-        <li><b>Discord Rich Presence:</b> show what you're listening to on your profile.</li>
-        <li><b>Listen Together:</b> sync playback with friends in real time.</li>
+        <li><b>8D Surround sound audio effect
+        
       </ul>
     </td>
     <td width="50%">
