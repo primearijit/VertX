@@ -69,7 +69,7 @@
 
 <p><b>VertX</b> is a free, open-source music player for Android that streams from YouTube Music, built with <b>Jetpack Compose</b> on a <b>Media3</b> ExoPlayer core. The UI is a custom <b>Liquid Glass</b> design system — frosted, refractive surfaces, iOS-style bouncy scrolling, and progressive blur chrome — instead of stock Material widgets.</p>
 
-<p>Convx started as a fork of <a href="https://github.com/vivizzz007/vivi-music">vivi-music</a>; see <a href="#-credits">Credits</a> below.</p>
+<p>VertX started as a fork of <a href="https://github.com/vivizzz007/vivi-music">vivi-music</a>; see <a href="#-credits">Credits</a> below.</p>
 
 <hr>
 
@@ -185,26 +185,6 @@
 <h2>📄 License</h2>
 <p>This project is licensed under the terms specified in the <a href="LICENSE">LICENSE</a> file (GPL-3.0).</p>
 
-<hr>
-
-<div align="center">
-  <table border="0" cellpadding="15" cellspacing="0" width="85%">
-    <tr>
-      <td align="center">
-        <h3>💬 Community & Support</h3>
-        <p>Connect with other listeners, suggest features, report bugs, and stay updated on releases.</p>
-        <br>
-        <a href="https://discord.gg/Ejeb4cmzfd">
-          <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
-        </a>
-        <br><br>
-        <sub>
-          <a href="https://github.com/primearijit/VertX/issues">🐞 Report Bugs</a> &nbsp;•&nbsp;
-          <a href="https://github.com/primearijit/VertX/discussions">💬 Discussions</a> &nbsp;•&nbsp;
-          <a href="https://github.com/primearijit/VertX/releases">🚀 Releases</a>
-        </sub>
-      </td>
-    </tr>
   </table>
 </div>
 
