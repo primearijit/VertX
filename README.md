@@ -8,7 +8,7 @@
     </a>
   </p>
   <p>
-    <b><a href="https://github.com/primearijit/VertX/releases/tag/v7.6.1">⬇️ DOWNLOAD VERTX 7.6.1</a></b>
+    <b><a href="https://github.com/primearijit/VertX/releases/tag/v7.7.4">⬇️ DOWNLOAD VERTX 7.6.1</a></b>
     — Latest release. Works on Android 8.0+.
   </p>
 
