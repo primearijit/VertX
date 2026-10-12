@@ -49,7 +49,7 @@
     <a href="https://t.me/vertxmusic">
       <img src="https://img.shields.io/badge/Telegram-Join%20Us-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Discord">
     </a>
-    <a href="upi://pay?pa=primearijit%40axl&pn=VertX&cu=INR">
+    <a href="upi://pay?pa=primearijit%40axl&pn=BeatLabs&cu=INR">
       <img src="https://img.shields.io/badge/Upi-Support%20Us-5F259F?style=for-the-badge&logo=phonepe&logoColor=white" alt="Support by upi">
     </a>
     <a href="https://www.instagram.com/primearijit/">
