@@ -100,11 +100,8 @@
       <ul>
         <li><b>Synced, karaoke-style lyrics</b> with word-by-word highlighting.</li>
         <li><b>8D Surround sound audio effect
-        
-      </ul>
-    </td>
     <td width="50%">
-      <h3>🛡️ Privacy & Updates</h3>
+      <li><b><h3>🛡️ Privacy & Updates</h3>
       <ul>
         <li><b>Zero telemetry:</b> no trackers, no analytics, fully local library and preferences.</li>
         <li><b>Built-in updater:</b> in-app update checks and changelogs, no third-party store required.</li>
