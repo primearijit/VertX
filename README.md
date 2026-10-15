@@ -3,12 +3,12 @@
   <h3>VertX is an open-source, Liquid Glass music player for Android</h3>
 
   <p>
-    <a href="https://github.com/primearijit/VertX/releases/download/v7.7.5/VertX-v7.7.5-release.apk">
-      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20VertX%207.7.5-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download VertX 7.7.5">
+    <a href="https://github.com/primearijit/VertX/releases/download/v7.7.6/VertX-v7.7.6-release.apk">
+      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20VertX%207.7.6-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download VertX 7.7.6">
     </a>
   </p>
   <p>
-    <b><a href="https://github.com/primearijit/VertX/releases/tag/v7.7.5">⬇️ DOWNLOAD VERTX 7.7.5</a></b>
+    <b><a href="https://github.com/primearijit/VertX/releases/tag/v7.7.6">⬇️ DOWNLOAD VERTX 7.7.6</a></b>
     — Latest release. Works on Android 8.0+.
   </p>
 
