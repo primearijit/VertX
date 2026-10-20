@@ -57,9 +57,9 @@
     </a>
   </p>
   <p>
-    ✨ <b>Support:</b> <a href="https://www.instagram.com/primearijit/">Instagram</a> &nbsp;•&nbsp;
-    💸 <b>UPI:</b> <code>primearijit@axl</code> &nbsp;•&nbsp;
-    🌐 <b>Website:</b> <a href="https://linktr.ee/primearijit7</a>
+    ✨ <b>Support:</b> <a href="https://www.instagram.com/zuck/">Instagram</a> &nbsp;•&nbsp;
+    💸 <b>UPI:</b> <code>@axll</code> &nbsp;•&nbsp;
+    🌐 <b>Website:</b> <a href="https://linktr.ee7</a>
   </p>
 </div>
 
