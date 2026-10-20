@@ -125,7 +125,7 @@
 
   <h2>🙏 Credits</h2>
 
-  <p>BeatWate is developed and maintained by <a href="https://github.com//vortexapps67/BeatWave">Vortexapps67</a>. See <a href="https://github.com//vortexapps67">Github</a> for the portfolio.</p>
+  <p>Vertx is forked from BeatWave which is developed and maintained by <a href="https://github.com//vortexapps67/BeatWave">Vortexapps67</a>. See <a href="https://github.com//vortexapps67">Github</a> for the portfolio.</p>
 
   <table border="0" cellpadding="10" cellspacing="0" width="90%">
     <tr valign="top">
