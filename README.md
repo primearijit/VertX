@@ -52,7 +52,7 @@
     <a href="upi://pay?pa=primearijit%40axl&pn=BeatLabs&cu=INR">
       <img src="https://img.shields.io/badge/Upi-Support%20Us-5F259F?style=for-the-badge&logo=phonepe&logoColor=white" alt="Support by upi">
     </a>
-    <a href="https://www.instagram.com/primearijit/">
+    <a href="https://www.instagram.com/zuck/">
       <img src="https://img.shields.io/badge/Instagram-FD1D1d?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram">
     </a>
   </p>
