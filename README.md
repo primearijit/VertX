@@ -1,66 +1,66 @@
 <div align="center">
-  <h1>VERTX</h1>
-  <h3>VertX is an open-source, Liquid Glass music player for Android</h3>
+  <h1>VERTX</h1>
+  <h3>VertX is an open-source, Liquid Glass music player for Android</h3>
 
-  <p>
-    <a href="https://github.com/primearijit/VertX/releases/download/v7.7.7/VertX-v7.7.7-release.apk">
-      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20VertX%207.7.7-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download VertX 7.7.7">
-    </a>
-  </p>
-  <p>
-    <b><a href="https://github.com/primearijit/VertX/releases/tag/v7.7.7">⬇️ DOWNLOAD VERTX 7.7.7</a></b>
-    — Latest release. Works on Android 8.0+.
-  </p>
+  <p>
+    <a href="https://github.com/primearijit/VertX/releases/download/v7.7.7/VertX-v7.7.7-release.apk">
+      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20VertX%207.7.7-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download VertX 7.7.7">
+    </a>
+  </p>
+  <p>
+    <b><a href="https://github.com/primearijit/VertX/releases/tag/v7.7.7">⬇️ DOWNLOAD VERTX 7.7.7</a></b>
+    — Latest release. Works on Android 8.0+.
+  </p>
 
-  <h3>📸 Screenshots</h3>
-  <div>
-    <br>
-    <img src="docs/screenshots/Screenshot_20260802_205427_Convx-portrait.png" width="30%" alt="Convx music player search screen with frosted glass UI">
-    <img src="docs/screenshots/mobile%20%283%29-portrait.png" width="30%" alt="Convx Liquid Glass music player UI showing the frosted player screen">
-    <img src="docs/screenshots/mobile%20%284%29-portrait.png" width="30%" alt="Convx music player now playing screen with artwork and glass controls">
-    <br>
-    <img src="docs/screenshots/mobile%20%285%29-portrait.png" width="30%" alt="Convx music player queue screen with Liquid Glass surfaces">
-    <img src="docs/screenshots/mobile%20%287%29-portrait.png" width="30%" alt="Convx Android music player synced lyrics screen">
-    <img src="docs/screenshots/mobile%20%289%29-portrait.png" width="30%" alt="Convx music player album page with refractive glass chrome">
-    <br>
-    <img src="docs/screenshots/mobile%20%2810%29-portrait.png" width="30%" alt="Convx music player settings screen with frosted glass panels">
-    <img src="docs/screenshots/mobile%20%2811%29-portrait.png" width="30%" alt="Convx music player artist page with glass design">
-    <img src="docs/screenshots/mobile%20%2812%29-portrait.png" width="30%" alt="Convx music player Android Auto playback controls">
-    <br>
-    <img src="docs/screenshots/mobile%20%2813%29-portrait.png" width="30%" alt="Convx music player equalizer with Liquid Glass UI">
-    <img src="docs/screenshots/lyrics%20screen-portrait.png" width="30%" alt="Convx music player karaoke-style lyrics with word-by-word highlighting">
-    <img src="docs/screenshots/users%20%282%29-portrait.png" width="30%" alt="Convx Listen Together shared playback with friends">
-    <br>
-    <img src="docs/screenshots/tabview%20%281%29-landscape.png" width="30%" alt="Convx Liquid Glass music player tablet home view">
-    <img src="docs/screenshots/tabview%20%282%29-landscape.png" width="30%" alt="Convx music player tablet library browsing">
-    <img src="docs/screenshots/tabview%20%283%29-landscape.png" width="30%" alt="Convx music player tablet now playing screen">
-    <br>
-    <img src="docs/screenshots/users%20%283%29-portrait.png" width="30%" alt="Convx Discord Rich Presence showing what you are listening to">
-    <img src="docs/screenshots/users%20%285%29-landscape.png" width="30%" alt="Convx music player shared sessions and community">
-  </div>
+  <h3>📸 Screenshots</h3>
+  <div>
+    <br>
+    <img src="docs/screenshots/Screenshot_20260802_205427_Convx-portrait.png" width="30%" alt="Convx music player search screen with frosted glass UI">
+    <img src="docs/screenshots/mobile%20%283%29-portrait.png" width="30%" alt="Convx Liquid Glass music player UI showing the frosted player screen">
+    <img src="docs/screenshots/mobile%20%284%29-portrait.png" width="30%" alt="Convx music player now playing screen with artwork and glass controls">
+    <br>
+    <img src="docs/screenshots/mobile%20%285%29-portrait.png" width="30%" alt="Convx music player queue screen with Liquid Glass surfaces">
+    <img src="docs/screenshots/mobile%20%287%29-portrait.png" width="30%" alt="Convx Android music player synced lyrics screen">
+    <img src="docs/screenshots/mobile%20%289%29-portrait.png" width="30%" alt="Convx music player album page with refractive glass chrome">
+    <br>
+    <img src="docs/screenshots/mobile%20%2810%29-portrait.png" width="30%" alt="Convx music player settings screen with frosted glass panels">
+    <img src="docs/screenshots/mobile%20%2811%29-portrait.png" width="30%" alt="Convx music player artist page with glass design">
+    <img src="docs/screenshots/mobile%20%2812%29-portrait.png" width="30%" alt="Convx music player Android Auto playback controls">
+    <br>
+    <img src="docs/screenshots/mobile%20%2813%29-portrait.png" width="30%" alt="Convx music player equalizer with Liquid Glass UI">
+    <img src="docs/screenshots/lyrics%20screen-portrait.png" width="30%" alt="Convx music player karaoke-style lyrics with word-by-word highlighting">
+    <img src="docs/screenshots/users%20%282%29-portrait.png" width="30%" alt="Convx Listen Together shared playback with friends">
+    <br>
+    <img src="docs/screenshots/tabview%20%281%29-landscape.png" width="30%" alt="Convx Liquid Glass music player tablet home view">
+    <img src="docs/screenshots/tabview%20%282%29-landscape.png" width="30%" alt="Convx music player tablet library browsing">
+    <img src="docs/screenshots/tabview%20%283%29-landscape.png" width="30%" alt="Convx music player tablet now playing screen">
+    <br>
+    <img src="docs/screenshots/users%20%283%29-portrait.png" width="30%" alt="Convx Discord Rich Presence showing what you are listening to">
+    <img src="docs/screenshots/users%20%285%29-landscape.png" width="30%" alt="Convx music player shared sessions and community">
+  </div>
 
-  <p>
-    <a href="https://github.com/primearijit/VertX/releases">
-      <img src="https://img.shields.io/github/downloads/primearijit/VertX/total?style=for-the-badge&color=blue" alt="Downloads">
-    </a>
-    <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/primearijit/VertX?style=for-the-badge" alt="License">
-    </a>
-    <a href="https://t.me/vertxmusic">
-      <img src="https://img.shields.io/badge/Telegram-Join%20Us-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Discord">
-    </a>
-    <a href="upi://pay?pa=primearijit%40axl&pn=BeatLabs&cu=INR">
-      <img src="https://img.shields.io/badge/Upi-Support%20Us-5F259F?style=for-the-badge&logo=phonepe&logoColor=white" alt="Support by upi">
-    </a>
-    <a href="https://www.instagram.com/primearijit/">
-      <img src="https://img.shields.io/badge/Instagram-FD1D1d?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram">
-    </a>
-  </p>
-  <p>
-    ✨ <b>Support:</b> <a href="https://www.instagram.com/primearijit/">Instagram</a> &nbsp;•&nbsp;
-    💸 <b>UPI:</b> <code>primearijit@axl</code> &nbsp;•&nbsp;
-    🌐 <b>Website:</b> <a href="https://linktr.ee/primearijit7</a>
-  </p>
+  <p>
+    <a href="https://github.com/primearijit/VertX/releases">
+      <img src="https://img.shields.io/github/downloads/primearijit/VertX/total?style=for-the-badge&color=blue" alt="Downloads">
+    </a>
+    <a href="LICENSE">
+      <img src="https://img.shields.io/github/license/primearijit/VertX?style=for-the-badge" alt="License">
+    </a>
+    <a href="https://t.me/vertxmusic">
+      <img src="https://img.shields.io/badge/Telegram-Join%20Us-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Discord">
+    </a>
+    <a href="upi://pay?pa=primearijit%40axl&pn=BeatLabs&cu=INR">
+      <img src="https://img.shields.io/badge/Upi-Support%20Us-5F259F?style=for-the-badge&logo=phonepe&logoColor=white" alt="Support by upi">
+    </a>
+    <a href="https://www.instagram.com/primearijit/">
+      <img src="https://img.shields.io/badge/Instagram-FD1D1d?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram">
+    </a>
+  </p>
+  <p>
+    ✨ <b>Support:</b> <a href="https://www.instagram.com/primearijit/">Instagram</a> &nbsp;•&nbsp;
+    💸 <b>UPI:</b> <code>primearijit@axl</code> &nbsp;•&nbsp;
+    🌐 <b>Website:</b> <a href="https://linktr.ee/primearijit7</a>
+  </p>
 </div>
 
 <hr>
@@ -76,113 +76,47 @@
 <h2>✨ Features</h2>
 
 <table align="center" width="100%">
-  <tr valign="top">
-    <td width="50%">
-      <h3>🧊 Liquid Glass UI</h3>
-      <ul>
-        <li><b>Real backdrop blur:</b> frosted glass chrome (nav bar, floating buttons, sheets) that actually samples and refracts the content behind it, not a flat translucent color.</li>
-        <li><b>iOS-style motion:</b> bouncy rubber-band overscroll, blurred page transitions, springy nav puck.</li>
-        <li><b>Material You:</b> adaptive colors pulled from the currently playing artwork.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🎵 Streaming</h3>
-      <ul>
-        <li><b>Full YT Music catalog:</b> ad-free streaming and background playback with full notification/lock-screen controls.</li>
-        <li><b>Offline downloads:</b> cache tracks locally with smart storage management.</li>
-        <li><b>Lossless/high-quality audio</b> and a built-in equalizer.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="50%">
-      <h3>📝 Lyrics & Social</h3>
-      <ul>
-        <li><b>Synced, karaoke-style lyrics</b> with word-by-word highlighting.</li>
-        <li><b>8D Surround sound audio effect
-    <td width="50%">
-      <li><b><h3>🛡️ Privacy & Updates</h3>
-      <ul>
-        <li><b>Zero telemetry:</b> no trackers, no analytics, fully local library and preferences.</li>
-        <li><b>Built-in updater:</b> in-app update checks and changelogs, no third-party store required.</li>
-      </ul>
-    </td>
-  </tr>
+  <tr valign="top">
+    <td width="50%">
+      <h3>🧊 Liquid Glass UI</h3>
+      <ul>
+        <li><b>Real backdrop blur:</b> frosted glass chrome (nav bar, floating buttons, sheets) that actually samples and refracts the content behind it, not a flat translucent color.</li>
+        <li><b>iOS-style motion:</b> bouncy rubber-band overscroll, blurred page transitions, springy nav puck.</li>
+        <li><b>Material You:</b> adaptive colors pulled from the currently playing artwork.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎵 Streaming</h3>
+      <ul>
+        <li><b>Full YT Music catalog:</b> ad-free streaming and background playback with full notification/lock-screen controls.</li>
+        <li><b>Offline downloads:</b> cache tracks locally with smart storage management.</li>
+        <li><b>Lossless/high-quality audio</b> and a built-in equalizer.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="50%">
+      <h3>📝 Lyrics & Social</h3>
+      <ul>
+        <li><b>Synced, karaoke-style lyrics</b> with word-by-word highlighting.</li>
+        <li><b>8D Surround sound audio effect
+    <td width="50%">
+      <li><b><h3>🛡️ Privacy & Updates</h3>
+      <ul>
+        <li><b>Zero telemetry:</b> no trackers, no analytics, fully local library and preferences.</li>
+        <li><b>Built-in updater:</b> in-app update checks and changelogs, no third-party store required.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <hr>
 
-<h2>🏗️ Architecture</h2>
-
-<p>Quick map for contributors — see <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for the full guide.</p>
-
-<ul>
-  <li><b>UI:</b> Jetpack Compose, MVVM (<code>ui/screens</code> + <code>viewmodels</code>), navigated via <code>ui/screens/NavigationBuilder.kt</code>.</li>
-  <li><b>Liquid Glass:</b> <code>ui/component/GlassEffect.kt</code> exposes <code>Modifier.liquidGlass(...)</code>, built on a vendored, source-included copy of <a href="https://github.com/Kyant0/backdrop">Kyant0/backdrop</a> under <code>ui/component/backdrop/</code>. A <code>Backdrop</code> (usually a <code>rememberLayerBackdrop()</code> attached via <code>Modifier.layerBackdrop(...)</code> to some subtree) captures real pixels; any surface holding a reference to that same backdrop can sample, blur, and refract it through <code>drawBackdrop(...)</code>. The floating nav bar, circular back/share buttons, and sheets are all just glass surfaces sampling a nearby backdrop this way.</li>
-  <li><b>Playback:</b> Media3 <code>ExoPlayer</code> service in <code>playback/MusicService.kt</code>.</li>
-  <li><b>Data:</b> Room database (<code>db/</code>) for the local library, DataStore for preferences (<code>utils/DataStore.kt</code>, <code>constants/PreferenceKeys.kt</code>).</li>
-  <li><b>YouTube Music access:</b> the <code>innertube</code> module — an unofficial InnerTube API client, kept separate from the app module.</li>
-  <li><b>Updater:</b> <code>vivimusic/updater/</code> checks GitHub Releases for new versions and handles in-app APK download/install (FOSS/GMS build flavors behave slightly differently — see <code>BuildConfig.CAST_AVAILABLE</code>).</li>
-</ul>
-
-<hr>
-
-<h2>🚗 Android Auto Setup</h2>
-
-<p>If VertX doesn't appear in Android Auto:</p>
-
-<ol>
-  <li>Open <strong>Android Auto</strong> on your phone</li>
-  <li>Tap the <strong>hamburger menu</strong> (three lines) and go to <strong>Settings</strong></li>
-  <li>Scroll to the bottom and tap the <strong>version number</strong> multiple times to enable Developer Settings</li>
-  <li>Tap the <strong>three dots menu</strong> (⋮) at the top-right</li>
-  <li>Select <strong>Developer settings</strong></li>
-  <li>Enable <strong>Unknown sources</strong></li>
-  <li>Restart Android Auto and connect to your car</li>
-</ol>
-
-<hr>
-
-<h2>🤝 Contributing</h2>
-
-<p>Contributions are welcome — bug reports, feature requests, and code. Start with <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for the project layout, build setup, and PR checklist. Short version:</p>
-
-<ol>
-  <li>Fork the repository</li>
-  <li>Create your feature branch (<code>git checkout -b feature/AmazingFeature</code>)</li>
-  <li>Commit your changes (<code>git commit -m 'Add some AmazingFeature'</code>)</li>
-  <li>Push to the branch (<code>git push origin feature/AmazingFeature</code>)</li>
-  <li>Open a Pull Request</li>
-</ol>
-
-<hr>
-
-<h2>🛡️ Privacy & Data Collection</h2>
-
-<p>At <strong>VertX</strong>, your privacy is our top priority. We believe that your music and data belong exclusively to you.</p>
-
-<ul>
-  <li><strong>Zero Data Collection:</strong> we do <strong>not</strong> collect, store, or share any of your personal information, usage habits, or listening history.</li>
-  <li><strong>100% Local:</strong> all your settings, downloaded tracks, and offline caches are stored securely on your device.</li>
-  <li><strong>No Tracking:</strong> no hidden trackers, analytics, or background services monitoring your activity.</li>
-</ul>
-
-<hr>
-
-<h2>📜 Disclaimer</h2>
-
-<p>This project and its contents are <strong>not affiliated with, funded, authorized, endorsed by, or in any way associated with</strong> YouTube, Google LLC, or any of their affiliates and subsidiaries.</p>
-
-<p>Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by their respective owners.</p>
-
-<p><strong>VertX</strong> is an independent project created for educational and personal use purposes.</p>
-
-<hr>
-
-<h2>📄 License</h2>
-<p>This project is licensed under the terms specified in the <a href="LICENSE">LICENSE</a> file (GPL-3.0).</p>
-
-  </table>
+<div align="center">
+  <a href="https://github.com/vortexapps67/BeatWave">
+    <img src="https://img.shields.io/badge/⚡%20SPECIAL%20CREDIT%20-%20Powered%20by%20BeatWave%20-%206C63FF?style=for-the-badge&logo=github&logoColor=white&scale=2" alt="BeatWave Credit Banner">
+  </a>
+  <p><i>Special thanks to <a href="https://github.com/vortexapps67/BeatWave">BeatWave</a> for architectural components and inspiration!</i></p>
 </div>
 
 <hr>
@@ -191,14 +125,15 @@
 
   <h2>🙏 Credits</h2>
 
-  <p>VertX is developed and maintained by <a href="https://github.com/primearijit">Arijit (primearijit)</a>. See <a href="https://www.instagram.com/primearijit/</a> for the portfolio.</p>
+  <p>Bew is developed and maintained by <a href="https://github.com//vortexapps67/BeatWave">Vortexapps67</a>. See <a href="https://github.com//vortexapps67">Github</a> for the portfolio.</p>
 
   <table border="0" cellpadding="10" cellspacing="0" width="90%">
     <tr valign="top">
       <td width="40%" align="left">
         <b>💡 Built On</b>
         <ul>
-          <li><strong><a href="https://github.com/vivizzz007/vivi-music">vivi-music</a></strong> by <strong>Vividh P Ashokan</strong> — the project VertX was forked from.</li>
+          <li><strong><a href="https://github.com/vortexapps67/BeatWave">BeatWave</a></strong> by <strong>vortexapps67</strong> — for core architecture elements and features.</li>
+          <li><strong><a href="https://github.com/vivizzz007/vivi-music">vivi-music</a></strong> by <strong>Vividh P Ashokan</strong> — the project VertX was initially forked from.</li>
           <li>The <strong>Apple Music Player V17</strong> full-screen player style (Settings → Player Theme) is ported from <a href="https://github.com/vivizzz007/vivi-music">vivi-music</a>'s Apple Music player UI, GPL-3.0.</li>
         </ul>
       </td>
@@ -219,4 +154,79 @@
   <hr width="60%">
   <p align="center"><strong>Made with ❤️ for music lovers everywhere</strong></p>
   <p align="center">⭐ Star this repo if you enjoy VertX!</p>
+</div>
+
+
+
+<h2>🏗️ Architecture</h2>
+
+<p>Quick map for contributors — see <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for the full guide.</p>
+
+<ul>
+  <li><b>UI:</b> Jetpack Compose, MVVM (<code>ui/screens</code> + <code>viewmodels</code>), navigated via <code>ui/screens/NavigationBuilder.kt</code>.</li>
+  <li><b>Liquid Glass:</b> <code>ui/component/GlassEffect.kt</code> exposes <code>Modifier.liquidGlass(...)</code>, built on a vendored, source-included copy of <a href="https://github.com/Kyant0/backdrop">Kyant0/backdrop</a> under <code>ui/component/backdrop/</code>. A <code>Backdrop</code> (usually a <code>rememberLayerBackdrop()</code> attached via <code>Modifier.layerBackdrop(...)</code> to some subtree) captures real pixels; any surface holding a reference to that same backdrop can sample, blur, and refract it through <code>drawBackdrop(...)</code>. The floating nav bar, circular back/share buttons, and sheets are all just glass surfaces sampling a nearby backdrop this way.</li>
+  <li><b>Playback:</b> Media3 <code>ExoPlayer</code> service in <code>playback/MusicService.kt</code>.</li>
+  <li><b>Data:</b> Room database (<code>db/</code>) for the local library, DataStore for preferences (<code>utils/DataStore.kt</code>, <code>constants/PreferenceKeys.kt</code>).</li>
+  <li><b>YouTube Music access:</b> the <code>innertube</code> module — an unofficial InnerTube API client, kept separate from the app module.</li>
+  <li><b>Updater:</b> <code>vivimusic/updater/</code> checks GitHub Releases for new versions and handles in-app APK download/install (FOSS/GMS build flavors behave slightly differently — see <code>BuildConfig.CAST_AVAILABLE</code>).</li>
+</ul>
+
+<hr>
+
+<h2>🚗 Android Auto Setup</h2>
+
+<p>If VertX doesn't appear in Android Auto:</p>
+
+<ol>
+  <li>Open <strong>Android Auto</strong> on your phone</li>
+  <li>Tap the <strong>hamburger menu</strong> (three lines) and go to <strong>Settings</strong></li>
+  <li>Scroll to the bottom and tap the <strong>version number</strong> multiple times to enable Developer Settings</li>
+  <li>Tap the <strong>three dots menu</strong> (⋮) at the top-right</li>
+  <li>Select <strong>Developer settings</strong></li>
+  <li>Enable <strong>Unknown sources</strong></li>
+  <li>Restart Android Auto and connect to your car</li>
+</ol>
+
+<hr>
+
+<h2>🤝 Contributing</h2>
+
+<p>Contributions are welcome — bug reports, feature requests, and code. Start with <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for the project layout, build setup, and PR checklist. Short version:</p>
+
+<ol>
+  <li>Fork the repository</li>
+  <li>Create your feature branch (<code>git checkout -b feature/AmazingFeature</code>)</li>
+  <li>Commit your changes (<code>git commit -m 'Add some AmazingFeature'</code>)</li>
+  <li>Push to the branch (<code>git push origin feature/AmazingFeature</code>)</li>
+  <li>Open a Pull Request</li>
+</ol>
+
+<hr>
+
+<h2>🛡️ Privacy & Data Collection</h2>
+
+<p>At <strong>VertX</strong>, your privacy is our top priority. We believe that your music and data belong exclusively to you.</p>
+
+<ul>
+  <li><strong>Zero Data Collection:</strong> we do <strong>not</strong> collect, store, or share any of your personal information, usage habits, or listening history.</li>
+  <li><strong>100% Local:</strong> all your settings, downloaded tracks, and offline caches are stored securely on your device.</li>
+  <li><strong>No Tracking:</strong> no hidden trackers, analytics, or background services monitoring your activity.</li>
+</ul>
+
+<hr>
+
+<h2>📜 Disclaimer</h2>
+
+<p>This project and its contents are <strong>not affiliated with, funded, authorized, endorsed by, or in any way associated with</strong> YouTube, Google LLC, or any of their affiliates and subsidiaries.</p>
+
+<p>Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by their respective owners.</p>
+
+<p><strong>VertX</strong> is an independent project created for educational and personal use purposes.</p>
+
+<hr>
+
+<h2>📄 License</h2>
+<p>This project is licensed under the terms specified in the <a href="LICENSE">LICENSE</a> file (GPL-3.0).</p>
+
+  </table>
 </div>
