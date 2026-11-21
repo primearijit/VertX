@@ -3,7 +3,7 @@
   <h3>Vertx is an open-source, Liquid Glass music player for Android</h3>
 
   <p>
-    <a href="https://github.com/primearijit/Vertx/releases/tag/v7.8.0">
+    <a href="https://github.com/primearijit/Vertx/releases/tag/v7.8.0/Vertx-v7.8.0">
       <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20Vertx%207.8.0-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download Vertx 7.8.0">
     </a>
   </p>
