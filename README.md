@@ -76,7 +76,7 @@
 
 <p><b>Vertx</b> is a free, open-source music player for Android that streams from YouTube Music, built with <b>Jetpack Compose</b> on a <b>Media3</b> ExoPlayer core. The UI is a custom <b>Liquid Glass</b> design system — frosted, refractive surfaces, iOS-style bouncy scrolling, and progressive blur chrome — instead of stock Material widgets.</p>
 
-<p>Convx started as a fork of <a href="https://github.com/vivizzz007/vivi-music">vivi-music</a>; see <a href="#-credits">Credits</a> below.</p>
+<p>Vertx started as a fork of <a href="https://github.com/vivizzz007/vivi-music">vivi-music</a>; see <a href="#-credits">Credits</a> below.</p>
 
 <hr>
 
@@ -142,8 +142,7 @@
       <td width="40%" align="left">
         <b>💡 Built On</b>
         <ul>
-          <li><strong><a href="https://github.com/vortexapps67/BeatWave">BeatWave</a></strong> by <strong>vortexapps67</strong> — for core architecture elements and features.</li>
-          <li><strong><a href="https://github.com/vivizzz007/vivi-music">vivi-music</a></strong> by <strong>Vividh P Ashokan</strong> — the project VertX was initially forked from.</li>
+          <li><strong><a href="https://github.com/vivizzz007/vivi-music">vivi-music</a></strong> by <strong>Vividh P Ashokan</strong> — the project Convx was forked from.</li>
           <li>The <strong>Apple Music Player V17</strong> full-screen player style (Settings → Player Theme) is ported from <a href="https://github.com/vivizzz007/vivi-music">vivi-music</a>'s Apple Music player UI, GPL-3.0.</li>
         </ul>
       </td>
@@ -157,6 +156,7 @@
         </ul>
       </td>
     </tr>
+  </table>
 
 <h2>🏗️ Architecture</h2>
 
@@ -175,7 +175,7 @@
 
 <h2>🚗 Android Auto Setup</h2>
 
-<p>If Convx doesn't appear in Android Auto:</p>
+<p>If Vertx doesn't appear in Android Auto:</p>
 
 <ol>
   <li>Open <strong>Android Auto</strong> on your phone</li>
