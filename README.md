@@ -3,12 +3,12 @@
   <h3>Vertx is an open-source, Liquid Glass music player for Android</h3>
 
   <p>
-    <a href="https://github.com/primearijit/Vertx/releases/tag/v7.0.0">
-      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20Vertx%206.0.0-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download Vertx 6.0.0">
+    <a href="https://github.com/primearijit/Vertx/releases/tag/v7.8.0">
+      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20Vertx%207.8.0-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download Vertx 7.8.0">
     </a>
   </p>
   <p>
-    <b><a href="https://github.com/primearijit/Vertx/releases/tag/v7.0.0">⬇️ DOWNLOAD VERTX 6.0.0</a></b>
+    <b><a href="https://github.com/primearijit/Vertx/releases/tag/v7.8.0">⬇️ DOWNLOAD VERTX 7.8.0</a></b>
     — Latest release. Works on Android 8.0+.
   </p>
 
@@ -115,6 +115,42 @@
 
 <hr>
 
+<div align="center">
+  <a href="https://github.com/vortexapps67/BeatWave">
+    <img src="https://img.shields.io/badge/⚡%20SPECIAL%20CREDIT%20-%20Powered%20by%20BeatWave%20-%206C63FF?style=for-the-badge&logo=github&logoColor=white&scale=2" alt="BeatWave Credit Banner">
+  </a>
+  <p><i>Special thanks to <a href="https://github.com/vortexapps67/BeatWave">BeatWave</a> for architectural components and inspiration!</i></p>
+</div>
+
+<hr>
+
+<div align="center">
+
+  <h2>🙏 Credits</h2>
+
+  <p>Vertx is forked from BeatWave which is developed and maintained by <a href="https://github.com//vortexapps67/BeatWave">Vortexapps67</a>. See <a href="https://github.com//vortexapps67">Github</a> for the portfolio.</p>
+
+  <table border="0" cellpadding="10" cellspacing="0" width="90%">
+    <tr valign="top">
+      <td width="40%" align="left">
+        <b>💡 Built On</b>
+        <ul>
+          <li><strong><a href="https://github.com/vortexapps67/BeatWave">BeatWave</a></strong> by <strong>vortexapps67</strong> — for core architecture elements and features.</li>
+          <li><strong><a href="https://github.com/vivizzz007/vivi-music">vivi-music</a></strong> by <strong>Vividh P Ashokan</strong> — the project VertX was initially forked from.</li>
+          <li>The <strong>Apple Music Player V17</strong> full-screen player style (Settings → Player Theme) is ported from <a href="https://github.com/vivizzz007/vivi-music">vivi-music</a>'s Apple Music player UI, GPL-3.0.</li>
+        </ul>
+      </td>
+      <td width="60%" align="left">
+        <b>🎖️ Foundational Projects</b>
+        <ul>
+          <li><strong><a href="https://github.com/Kyant0/backdrop">Kyant0/backdrop</a></strong> — the real-time backdrop blur/refraction library the Liquid Glass UI is built on.</li>
+          <li><strong><a href="https://github.com/better-lyrics/better-lyrics">Better Lyrics</a></strong> and <strong><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></strong> — synced lyrics.</li>
+          <li><strong><a href="https://github.com/ibratabian17/YouLyPlus">YouLyPlus</a></strong> — in-app lyrics styling.</li>
+          <li><strong><a href="https://github.com/monochrome-music/monochrome">Monochrome</a></strong> — the animated visualizer canvas.</li>
+        </ul>
+      </td>
+    </tr>
+
 <h2>🏗️ Architecture</h2>
 
 <p>Quick map for contributors — see <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for the full guide.</p>
@@ -212,30 +248,7 @@
 
 <div align="center">
 
-  <h2>🙏 Credits</h2>
 
-  <p>Vertx is developed and maintained by <a href="https://github.com/primearijit">Arijit (primearijit)</a>. See <a href="https://www.instagram.com/primearijit/</a> for the portfolio.</p>
-
-  <table border="0" cellpadding="10" cellspacing="0" width="90%">
-    <tr valign="top">
-      <td width="40%" align="left">
-        <b>💡 Built On</b>
-        <ul>
-          <li><strong><a href="https://github.com/vivizzz007/vivi-music">vivi-music</a></strong> by <strong>Vividh P Ashokan</strong> — the project Convx was forked from.</li>
-          <li>The <strong>Apple Music Player V17</strong> full-screen player style (Settings → Player Theme) is ported from <a href="https://github.com/vivizzz007/vivi-music">vivi-music</a>'s Apple Music player UI, GPL-3.0.</li>
-        </ul>
-      </td>
-      <td width="60%" align="left">
-        <b>🎖️ Foundational Projects</b>
-        <ul>
-          <li><strong><a href="https://github.com/Kyant0/backdrop">Kyant0/backdrop</a></strong> — the real-time backdrop blur/refraction library the Liquid Glass UI is built on.</li>
-          <li><strong><a href="https://github.com/better-lyrics/better-lyrics">Better Lyrics</a></strong> and <strong><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></strong> — synced lyrics.</li>
-          <li><strong><a href="https://github.com/ibratabian17/YouLyPlus">YouLyPlus</a></strong> — in-app lyrics styling.</li>
-          <li><strong><a href="https://github.com/monochrome-music/monochrome">Monochrome</a></strong> — the animated visualizer canvas.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
 
   <br>
   <p align="center">The open-source community for tools, libraries, and APIs that make this project possible.</p>
