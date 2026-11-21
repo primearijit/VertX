@@ -8,9 +8,16 @@
     </a>
   </p>
   <p>
-    <b><a href="https://github.com/primearijit/Vertx/releases/tag/v7.8.0/Vertx-v7.8.0">⬇️ DOWNLOAD VERTX 7.8.0</a></b>
     — Latest release. Works on Android 8.0+.
   </p>
+
+  </body>
+
+| Device | Download |
+|---|---|
+| 📱 Most Android phones & tablets | [**[Vertx-v7.8.0.apk](https://github.com/primearijit/Vertx/releases/download/v7.8.0/Vertx-v7.8.0.apk)**] |
+| 📺 Android TV devices | [**[Vertx-TV-v7.8.0.apk](https://github.com/primearijit/Vertx/releases/download/v7.8.0/Vertx-TV-v7.8.0.apk)**]|
+| ⚡ Low-end Android phones | [**[Vertx-Lite-v7.8.0.apk](https://github.com/primearijit/Vertx/releases/download/v7.8.0/Vertx-Lite-v7.8.0.apk)**]
 
   <h3>📸 Screenshots</h3>
   <div>
