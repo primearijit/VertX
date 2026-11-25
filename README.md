@@ -3,8 +3,8 @@
   <h3>Vertx is an open-source, Liquid Glass music player for Android</h3>
 
   <p>
-    <a href="https://github.com/primearijit/Vertx/releases/tag/v7.8.2/Vertx-v7.8.2">
-      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20Vertx%207.8.2-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download Vertx 7.8.2">
+    <a href="https://github.com/primearijit/Vertx/releases/tag/v7.8.4/Vertx-v7.8.4">
+      <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20Vertx%207.8.4-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download Vertx 7.8.4">
     </a>
   </p>
   <p>
@@ -15,35 +15,35 @@
 
 | Device | Download |
 |---|---|
-| 📱 Most Android phones & tablets | [**[Vertx-v7.8.2.apk](https://github.com/primearijit/Vertx/releases/download/v7.8.2/Vertx-v7.8.2.apk)**] |
-| 📺 Android TV devices | [**[Vertx-TV-v7.8.2.apk](https://github.com/primearijit/Vertx/releases/download/v7.8.2/Vertx-TV-v7.8.2.apk)**]|
-| ⚡ Low-end Android phones | [**[Vertx-Lite-v7.8.2.apk](https://github.com/primearijit/Vertx/releases/download/v7.8.2/Vertx-Lite-v7.8.2.apk)**]
+| 📱 Most Android phones & tablets | [**[Vertx-v7.8.4.apk](https://github.com/primearijit/Vertx/releases/download/v7.8.4/Vertx-v7.8.4.apk)**] |
+| 📺 Android TV devices | [**[Vertx-TV-v7.8.4.apk](https://github.com/primearijit/Vertx/releases/download/v7.8.4/Vertx-TV-v7.8.4.apk)**]|
+| ⚡ Low-end Android phones | [**[Vertx-Lite-v7.8.4.apk](https://github.com/primearijit/Vertx/releases/download/v7.8.4/Vertx-Lite-v7.8.4.apk)**]
 
   <h3>📸 Screenshots</h3>
   <div>
     <br>
-    <img src="docs/screenshots/Screenshot_20260802_205427_Convx-portrait.png" width="30%" alt="Convx music player search screen with frosted glass UI">
-    <img src="docs/screenshots/mobile%20%283%29-portrait.png" width="30%" alt="Convx Liquid Glass music player UI showing the frosted player screen">
-    <img src="docs/screenshots/mobile%20%284%29-portrait.png" width="30%" alt="Convx music player now playing screen with artwork and glass controls">
+    <img src="docs/screenshots/Screenshot_20260802_205427_Convx-portrait.png" width="30%" alt="Vertx music player search screen with frosted glass UI">
+    <img src="docs/screenshots/mobile%20%283%29-portrait.png" width="30%" alt="Vertx Liquid Glass music player UI showing the frosted player screen">
+    <img src="docs/screenshots/mobile%20%284%29-portrait.png" width="30%" alt="Vertx music player now playing screen with artwork and glass controls">
     <br>
-    <img src="docs/screenshots/mobile%20%285%29-portrait.png" width="30%" alt="Convx music player queue screen with Liquid Glass surfaces">
-    <img src="docs/screenshots/mobile%20%287%29-portrait.png" width="30%" alt="Convx Android music player synced lyrics screen">
-    <img src="docs/screenshots/mobile%20%289%29-portrait.png" width="30%" alt="Convx music player album page with refractive glass chrome">
+    <img src="docs/screenshots/mobile%20%285%29-portrait.png" width="30%" alt="Vertx music player queue screen with Liquid Glass surfaces">
+    <img src="docs/screenshots/mobile%20%287%29-portrait.png" width="30%" alt="Vertx Android music player synced lyrics screen">
+    <img src="docs/screenshots/mobile%20%289%29-portrait.png" width="30%" alt="Vertx music player album page with refractive glass chrome">
     <br>
-    <img src="docs/screenshots/mobile%20%2810%29-portrait.png" width="30%" alt="Convx music player settings screen with frosted glass panels">
-    <img src="docs/screenshots/mobile%20%2811%29-portrait.png" width="30%" alt="Convx music player artist page with glass design">
-    <img src="docs/screenshots/mobile%20%2812%29-portrait.png" width="30%" alt="Convx music player Android Auto playback controls">
+    <img src="docs/screenshots/mobile%20%2810%29-portrait.png" width="30%" alt="Vertx music player settings screen with frosted glass panels">
+    <img src="docs/screenshots/mobile%20%2811%29-portrait.png" width="30%" alt="Vertx music player artist page with glass design">
+    <img src="docs/screenshots/mobile%20%2812%29-portrait.png" width="30%" alt="Vertx music player Android Auto playback controls">
     <br>
-    <img src="docs/screenshots/mobile%20%2813%29-portrait.png" width="30%" alt="Convx music player equalizer with Liquid Glass UI">
-    <img src="docs/screenshots/lyrics%20screen-portrait.png" width="30%" alt="Convx music player karaoke-style lyrics with word-by-word highlighting">
-    <img src="docs/screenshots/users%20%282%29-portrait.png" width="30%" alt="Convx Listen Together shared playback with friends">
+    <img src="docs/screenshots/mobile%20%2813%29-portrait.png" width="30%" alt="Vertx music player equalizer with Liquid Glass UI">
+    <img src="docs/screenshots/lyrics%20screen-portrait.png" width="30%" alt="Vertx music player karaoke-style lyrics with word-by-word highlighting">
+    <img src="docs/screenshots/users%20%282%29-portrait.png" width="30%" alt="Vertx Listen Together shared playback with friends">
     <br>
-    <img src="docs/screenshots/tabview%20%281%29-landscape.png" width="30%" alt="Convx Liquid Glass music player tablet home view">
-    <img src="docs/screenshots/tabview%20%282%29-landscape.png" width="30%" alt="Convx music player tablet library browsing">
-    <img src="docs/screenshots/tabview%20%283%29-landscape.png" width="30%" alt="Convx music player tablet now playing screen">
+    <img src="docs/screenshots/tabview%20%281%29-landscape.png" width="30%" alt="Vertx Liquid Glass music player tablet home view">
+    <img src="docs/screenshots/tabview%20%282%29-landscape.png" width="30%" alt="Vertx music player tablet library browsing">
+    <img src="docs/screenshots/tabview%20%283%29-landscape.png" width="30%" alt="Vertx music player tablet now playing screen">
     <br>
-    <img src="docs/screenshots/users%20%283%29-portrait.png" width="30%" alt="Convx Discord Rich Presence showing what you are listening to">
-    <img src="docs/screenshots/users%20%285%29-landscape.png" width="30%" alt="Convx music player shared sessions and community">
+    <img src="docs/screenshots/users%20%283%29-portrait.png" width="30%" alt="Vertx Discord Rich Presence showing what you are listening to">
+    <img src="docs/screenshots/users%20%285%29-landscape.png" width="30%" alt="Vertx music player shared sessions and community">
   </div>
 
   <p>
